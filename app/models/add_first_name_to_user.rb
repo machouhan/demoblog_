@@ -1,0 +1,2 @@
+class AddFirstNameToUser < ApplicationRecord
+end
